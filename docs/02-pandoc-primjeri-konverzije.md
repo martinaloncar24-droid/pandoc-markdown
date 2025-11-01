@@ -1,4 +1,4 @@
-#Pandoc
+# Pandoc
 
-##Osnove pandoca
+## snove pandoca
 
